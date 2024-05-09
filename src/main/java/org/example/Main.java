@@ -6,7 +6,7 @@ import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        System.out.println("Ingresa nombre:");
+        System.out.println("Ingresa nombre.:");
         String nombre = sc.nextLine();
         System.out.println("Ingresa cantidad satelites:");
         int satelites = sc.nextInt();
